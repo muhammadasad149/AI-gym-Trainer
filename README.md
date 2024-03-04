@@ -25,7 +25,7 @@ This project is aimed at building a computer vision-based AI gym trainer using t
 
 ```
 git clone https://github.com/muhammadasad149/AI-gym-Trainer.git
-```
+
 ```
 2. Install the required dependencies:
 
